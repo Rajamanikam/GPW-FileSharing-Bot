@@ -1,5 +1,5 @@
 <h2 align="center">
-    <i>FilesSharing-Bot</i>
+    <i>FileSharing-Bot</i>
 </h2>
 
 <img src="https://envs.sh/RQS.jpg" alt="logo" target="/blank">
