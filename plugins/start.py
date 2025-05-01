@@ -169,7 +169,7 @@ async def not_joined(client: Client, message: Message):
 async def get_users(client: Bot, message: Message):
     msg = await client.send_message(chat_id=message.chat.id, text=f"Processing...")
     users = await full_userbase()
-    await msg.edit(f"{len(users)} <b>Users Are Using This Bot</b>")
+    await msg.edit(f"{len(users)} <b><i>Users Are Using This Bot</i></b>")
 
 
 
@@ -184,7 +184,7 @@ async def send_text(client: Bot, message: Message):
         deleted = 0
         unsuccessful = 0
         
-        pls_wait = await message.reply("<i>Broadcasting Message.. This will Take Some Time</i>")
+        pls_wait = await message.reply("<i><b>Broadcasting Message.. This will Take Some Time</b></i>")
         for chat_id in query:
             try:
                 await broadcast_msg.copy(chat_id)
@@ -215,7 +215,7 @@ async def send_text(client: Bot, message: Message):
         return await pls_wait.edit(status)
 
     else:
-        msg = await message.reply(f"<b>Use This Command As A Reply To Any Telegram Message With Out Any Spaces.</b>")
+        msg = await message.reply(f"<b><i>Use This Command As A Reply To Any Telegram Message With Out Any Spaces.</i></b>")
         await asyncio.sleep(8)
         await msg.delete()
 
