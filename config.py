@@ -19,7 +19,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002384933640"))
 
 
-FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "30")) # auto delete in seconds
+FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "300")) # auto delete in seconds
 
 
 PORT = os.environ.get("PORT", "8080")
