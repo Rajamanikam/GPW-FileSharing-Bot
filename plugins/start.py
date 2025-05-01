@@ -53,11 +53,11 @@ async def start_command(client: Client, message: Message):
                 ids = [int(int(argument[1]) / abs(client.db_channel.id))]
             except:
                 return
-        temp_msg = await message.reply("<b>Please Wait...</b>")
+        temp_msg = await message.reply("<b><i>Please Wait...</i></b>")
         try:
             messages = await get_messages(client, ids)
         except:
-            await message.reply_text("<b>Something Went Wrong..!</b>")
+            await message.reply_text("<b><i>Something Went Wrong..!</i></b>")
             return
         await temp_msg.delete()
     
@@ -89,7 +89,7 @@ async def start_command(client: Client, message: Message):
                 pass
 
 
-        k = await client.send_message(chat_id = message.from_user.id, text=f"<b>❗️ <u>IMPORTANT</u> ❗️</b>\n\n<b>💢 Files Will Be Deleted In {file_auto_delete} (Due To Copyright Issues).\n\n💢 Save these Files To your Saved Messages And Download There 📂</b>")
+        k = await client.send_message(chat_id = message.from_user.id, text=f"<b>❗️ <u>IMPORTANT</u> ❗️</b>\n\n<b><i>💢 Files Will Be Deleted In {file_auto_delete} (Due To Copyright Issues).\n\n💢 Save these Files To your Saved Messages And Download There 📂</i></b>")
 
         # Schedule the file deletion
         asyncio.create_task(delete_files(madflix_msgs, client, k))
