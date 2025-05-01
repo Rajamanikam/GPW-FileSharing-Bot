@@ -86,3 +86,4 @@ stats - Check your Bot uptime
 
 <a href="https://github.com/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-red.svg?style=for-the-badge&logo=Github"></a>
 <a href='https://github.com/myselfnron'></a>
+<a href="https://telegram.me/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
