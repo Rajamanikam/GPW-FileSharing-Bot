@@ -4,7 +4,7 @@
 
 <img src="https://envs.sh/RQS.jpg" alt="logo" target="/blank">
 
-_**Watch me on Telegram as [FileSharingBot](https://t.me/neonfilesbot)**_
+_**Watch on Telegram as [FileSharingBot](https://t.me/neonfilesbot)**_
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NEON+FILE+SHARING+BOT+!;CREATED+BY+MYSELFNEON!;A+SIMPLE+BOT+WITH+MULTI+FEATURES!)</p>
 <a href="https://github.com/MyselfNeon/FileSharing-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 3.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
