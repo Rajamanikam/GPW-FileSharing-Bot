@@ -10,8 +10,8 @@ _**Watch on Telegram as [FileSharingBot](https://t.me/neonfilesbot)**_
 <a href="https://github.com/MyselfNeon/FileSharing-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 3.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Myselfneon/FileSharing-Bot"> <img src="https://img.shields.io/github/repo-size/myselfneon/FilesSharing-bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/MyselfNeon/FileSharing-Bot"> <img src="https://img.shields.io/github/last-commit/myselfneon/Filesharing-bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Myselfneon/FileSharing-Bot"> <img src="https://img.shields.io/github/repo-size/myselfneon/FileSharing-bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/MyselfNeon/FileSharing-Bot"> <img src="https://img.shields.io/github/last-commit/myselfneon/FileSharing-bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 ### _Features_
 <b><i>
