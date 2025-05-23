@@ -16,8 +16,3 @@ async def showid(client, message):
             quote=True
         )
         
-
-
-# MyselfNeon
-# Don't Remove Credit 🥺
-# Telegram Channel @NeonFiles
