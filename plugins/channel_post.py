@@ -53,12 +53,3 @@ async def new_post(client: Client, message: Message):
     except Exception as e:
         print(e)
         pass
-
-
-
-
-
-
-# MyselfNeon
-# Don't Remove Credit 🥺
-# Telegram Channel @NeonFiles
