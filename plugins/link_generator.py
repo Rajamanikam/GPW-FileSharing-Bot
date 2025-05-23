@@ -61,8 +61,3 @@ async def link_generator(client: Client, message: Message):
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("🖇️ Share URL", url=f'https://telegram.me/share/url?url={link}')]])
     await channel_message.reply_text(f"<b><i>Here Is Your Link</i></b>\n\n{link}", quote=True, reply_markup=reply_markup)
 
-
-
-# MyselfNeon
-# Don't Remove Credit 🥺
-# Telegram Channel @NeonFiles
