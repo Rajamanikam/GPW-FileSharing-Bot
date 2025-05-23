@@ -112,13 +112,4 @@ def get_readable_time(seconds: int) -> str:
     return up_time
 
 
-subscribed = filters.create(is_subscribed)
-       
-
-
-
-
-
-# MyselfNeon
-# Don't Remove Credit 🥺
-# Telegram Channel @NeonFiles
+#subscribed = filters.create(is_subscribed)
