@@ -1,10 +1,6 @@
 <h2 align="center">
-    <i>FileSharing-Bot</i>
-</h2>
-
-<img src="https://envs.sh/7gW.jpg" alt="logo" target="/blank">
-
-_**Watch on Telegram as [FileSharingBot](https://t.me/neonfilesbot)**_
+    <i>GPW-FileSharing-Bot</i>
+</h2
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NEON+FILE+SHARING+BOT+!;CREATED+BY+MYSELFNEON!;A+SIMPLE+BOT+WITH+MULTI+FEATURES!)</p>
 <a href="https://github.com/MyselfNeon/FileSharing-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 3.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
