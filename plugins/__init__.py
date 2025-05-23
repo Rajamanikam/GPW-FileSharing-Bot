@@ -7,10 +7,3 @@ async def web_server():
     web_app.add_routes(routes)
     return web_app
 
-
-
-
-
-# MyselfNeon
-# Don't Remove Credit 🥺
-# Telegram Channel @NeonFiles
