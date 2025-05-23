@@ -2,12 +2,8 @@
     <i>GPW-FileSharing-Bot</i>
 </h2
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NEON+FILE+SHARING+BOT+!;CREATED+BY+MYSELFNEON!;A+SIMPLE+BOT+WITH+MULTI+FEATURES!)</p>
-<a href="https://github.com/MyselfNeon/FileSharing-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 3.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Myselfneon/FileSharing-Bot"> <img src="https://img.shields.io/github/repo-size/myselfneon/FileSharing-bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/MyselfNeon/FileSharing-Bot"> <img src="https://img.shields.io/github/last-commit/myselfneon/FileSharing-bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 ### _Features_
 <b><i>
@@ -72,14 +68,3 @@ users - View bot statistics
 broadcast - Broadcast any messages to Bot Users
 stats - Check your Bot uptime
 ```
-
-<h3>Contact Developer</h3>
-
-<a href="https://telegram.me/OnionXbot"><img src="https://img.shields.io/badge/-Contact%20Dev-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/neonfiles"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-
-### Respecting 🌊
-
-<a href="https://github.com/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-red.svg?style=for-the-badge&logo=Github"></a>
-<a href='https://github.com/myselfnron'></a>
-<a href="https://telegram.me/myselfneon"><img src="https://img.shields.io/badge/-Developer%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
